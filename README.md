@@ -22,5 +22,5 @@ The coding, analysis, and literature for this project were all done on Jupyter N
 
 ## Credits:
 
-All data used for this analysis were obtained from [Gapminder](https://www.gapminder.org/data/).
-Projected was curated by [Udacity](https://udacity.com).
+* All data used for this analysis were obtained from [Gapminder](https://www.gapminder.org/data/).
+* Project was curated by [Udacity](https://udacity.com).
